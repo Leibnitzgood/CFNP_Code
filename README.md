@@ -1,6 +1,6 @@
 # CFNP_Code<br/>
 CFNP test code<br/>
-We have saved the trained weight file , just open the TestSymp to check the result  <br/>
+We have saved the trained weight file , just open the run.py and choose the TestSymp.py to check the result  <br/>
 baseline model：CAMul : https://github.com/AdityaLab/CAMul<br/>
 Contrast model：<br/>
 DeepAR：https://github.com/jingw2/demand_forecast<br/>
